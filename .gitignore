@@ -1,0 +1,102 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDEs
+.idea/
+.vscode/
+
+# Data files
+*.h5ad
+*.h5
+*.rds
+*.RData
+*.Rdata
+/GDCdata
+
+# Model files
+*.pth
+*.pkl
+*.npy
+*.npz
+best_model_*.pth
+scaler_*.pkl
+reference_*.npy
+adjacency_matrix.npy
+cell_types_*.txt
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+*.csv
+*.log
+*.tex
+performance_*.csv
+*_deconvolution.png
+*_latent_space.png
+*_coexpression_network.png
+
+# Lock files
+uv.lock
+Pipfile.lock
+
+# R workspace
+.Rhistory
+.RData
+.Rproj.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Data directories
+Data/
+data/
+tcga_skcm_data/
+tcga_abiolinks/
+DECONOMIX_MODELS/Data/
+
+# Analysis files
+TCGA_*.RData
+*.RData
+
+# Claude
+.claude/

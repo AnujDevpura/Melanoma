@@ -1,0 +1,14 @@
+CD4 T cell
+CD8 T cell
+Cycling T/NK cell
+Macrophage
+Mast cell
+Memory B cell
+Monocyte
+NK cell
+Naive B cell
+Plasma cell
+cDC1
+cDC2
+mregDC
+pDC
